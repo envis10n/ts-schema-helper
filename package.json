@@ -4,6 +4,7 @@
   "description": "JSON Schema Validator Generics",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "files": ["dist"],
   "scripts": {
     "build": "tsc"
   },
