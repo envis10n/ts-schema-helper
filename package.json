@@ -1,10 +1,12 @@
 {
   "name": "ts-schema-helper",
-  "version": "0.0.1-dev",
+  "version": "0.0.1",
   "description": "JSON Schema Validator Generics",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc"
   },
